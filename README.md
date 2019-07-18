@@ -1,6 +1,6 @@
 ## Visual Tracking via Dynamic Memory Networks
 ### Introduction
-This is the Tensorflow implementation of our [**MemDTC**](https://arxiv.org/pdf/1803.07268.pdf) tracker published in TPAMI, 2019. It extends our [**MemTrack**](https://arxiv.org/pdf/1803.07268.pdf) by proposing a Distractor Template Canceling mechanism. Detailed comparision results can be found in the author's [webpage](https://tianyu-yang.com)
+This is the Tensorflow implementation of our [**MemDTC**](https://tianyu-yang.com/resources/memdtc.pdf) tracker published in TPAMI, 2019. It extends our [**MemTrack**](https://arxiv.org/pdf/1803.07268.pdf) by proposing a Distractor Template Canceling mechanism. Detailed comparision results can be found in the author's [webpage](https://tianyu-yang.com)
 
 ### Prerequisites
 
